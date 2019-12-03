@@ -1,4 +1,4 @@
-
+[![Build Status](https://dev.azure.com/conclusiontcc/Testsite/_apis/build/status/FransPeterson.ContosoAir?branchName=master)](https://dev.azure.com/conclusiontcc/Testsite/_build/latest?definitionId=2&branchName=master)
 
 
 # Microsoft.Github CI Demo
